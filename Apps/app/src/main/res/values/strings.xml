@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RVTest</string>
+    //this file supports String array
+    // in this project the idea is
+    <string-array name="cake_url">
+        <item>
+            https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg
+        </item>
+        <item>
+            http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg
+        </item>
+        <item>
+            https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg
+        </item>
+    </string-array>
+
+    <string-array name="cake_title">
+        <item>Lemon Cake</item>
+        <item>Victoria Sponge</item>
+        <item>Lemon Cake</item>
+    </string-array>
+</resources>
+
+
+

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoAppForResult</string>
+    <string name="task">Task</string>
+    <string name="til_hint_task">Task</string>
+    <string name="til_hint_category">Category</string>
+    <string name="btn_text_save">text</string>
+</resources>
